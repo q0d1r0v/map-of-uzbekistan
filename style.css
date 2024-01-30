@@ -1,0 +1,21 @@
+html,
+body {
+  font-family: sans-serif;
+}
+
+svg {
+  fill: lightblue;
+}
+
+path:hover {
+  fill: lightgreen;
+  cursor: pointer;
+}
+
+.selected {
+  fill: green;
+}
+
+.districts {
+  font-weight: 600;
+}
